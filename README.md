@@ -8,4 +8,4 @@
    Para executar a `pwd-meter-api` basta seguir as instruções em seu respectivo repositório.
 
 ##### Regras de Negócio
-   As regras de negócio foram baseadas como descritas no projeto original.  Os valores ainda não estão calibrados como no projeto original, porém os resultados podem ainda ser melhorados.
+   As regras de negócio foram baseadas como descritas no projeto original.  Os valores ainda não estão calibrados como deveriam, porém os resultados podem ainda ser melhorados.
