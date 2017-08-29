@@ -22,3 +22,16 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.campos{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.saida{
+  padding-top: 20px; 
+}
+
+.str{
+  color: white;
+}
